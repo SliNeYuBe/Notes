@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search">Поиск…</string>
+    <string name="all_notes">Все записки</string>
+    <string name="other">Остальные</string>
+    <string name="pinned">Закрепленные</string>
+    <string name="create_note">Создать записку</string>
+    <string name="title">Заголовок</string>
+    <string name="save_note">Сохранить записку</string>
+    <string name="note_something_down">Напишите что-то…</string>
+    <string name="edit_note">Изменить записку</string>
+    <string name="just_now">Только что</string>
+    <string name="h_ago">%1$d ч назад</string>
+</resources>
