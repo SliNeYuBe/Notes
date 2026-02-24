@@ -8,7 +8,6 @@
 <img width="360" height="752" alt="Снимок экрана 2026-02-22 063454" src="https://github.com/user-attachments/assets/e3545866-7ceb-454e-82c0-daf2f01e3aa9" />
 <img width="360" height="752" alt="image" src="https://github.com/user-attachments/assets/730881c4-6eae-4cc1-9416-aa8aa2fc497a" />
 
-
 ## Функционал
 - Реализовал UI на Jetpack Compose
 - Спроектировал локальную БД (Room) с 2 таблицами и связями
